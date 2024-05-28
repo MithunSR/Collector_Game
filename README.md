@@ -7,9 +7,6 @@ Welcome to the My Unity 3D Game Project repository! This project is a Unity 3D g
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 This project is a 3D game developed using Unity. It includes background music, sound effects for walking, jumping, and collecting coins, as well as win and lose conditions.
