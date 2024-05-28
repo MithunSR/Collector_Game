@@ -45,7 +45,7 @@ This project is a 3D game developed using Unity. It includes background music, s
 ## Usage
 1. **Open the Scene**:
     - Open the Unity Editor.
-    - In the Project window, navigate to the `Assets/Scenes` folder.
+    - In the Project window, navigate to the `Assets/Polytope Studio/Lowpoly_Demos/Environment_Free` folder.
     - Double-click on the main scene file to open it.
 
 2. **Play the Game**:
